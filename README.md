@@ -1,0 +1,2 @@
+# kirka-customfiles
+kirkaってブラウザゲーム用の画像だったり云々を置くところ
